@@ -2,6 +2,8 @@
 import os
 import sys
 
+# Bu dosyaya dokunmuyoruz!!!
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "djangoproject1.settings")
     try:
